@@ -1,4 +1,4 @@
-# SOURABH-PATIYAL<h1 align="center">🔌 Sourabh PatIyal</h1>
+# SOURABH-PATIYAL<h1 align="center">🔌 Sourabh Patiyal</h1>
 <h3 align="center">Engineer • Mentor • Microcontroller Whisperer</h3>
 
 
