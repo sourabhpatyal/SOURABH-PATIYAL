@@ -1,6 +1,7 @@
 # SOURABH-PATIYAL<h1 align="center">🔌 Sourabh Patyal</h1>
 <h3 align="center">Engineer • Mentor • Microcontroller Whisperer</h3>
 
+
 ---
 
 ## 👋 Hello, World!
@@ -11,6 +12,8 @@ With a passion for **bare-metal logic** and a mission to **mentor future enginee
 > 🧠 *“I don’t just blink LEDs — I light up understanding.”*
 
 ---
+
+
 
 ## ⚙️ My Embedded DNA
 
@@ -43,10 +46,10 @@ With a passion for **bare-metal logic** and a mission to **mentor future enginee
 | 🔵 **SPI**        | Displays, Sensors, SD Cards               |
 | 🟢 **I2C**        | RTC, EEPROM, Bit-banged Solutions         |
 | 🔴 **RS-485 / Modbus RTU** | Master-Slave, Register Mapping        |
-| 📡 **BLE / GNSS** | NMEA Parsing, Android Sync, Tracker       |
 | 📊 **MQTT**       | Node-RED, Grafana Dashboards, IIoT Logs   |
 
 ---
+
 
 ## 🛠️ Projects That Solve Real Problems
 
@@ -60,6 +63,8 @@ With a passion for **bare-metal logic** and a mission to **mentor future enginee
 
 ---
 
+
+
 ## 🎓 I Teach & Mentor On
 
 - ✅ AVR & PIC Microcontroller Programming (C, Bare-Metal)
@@ -71,17 +76,23 @@ With a passion for **bare-metal logic** and a mission to **mentor future enginee
 
 ---
 
+
+
 ## 💭 My Coding Philosophy
 
 > 🧩 *“No HAL? No Problem. No RTOS? Write your own.”*  
 > 🧠 *“Every register tells a story. Just learn to listen.”*
 
 ``
+
+
 📫 **Let's Connect**
 📧 Email: sourabhpatyal@gmail.com
 💼 LinkedIn: [linkedin.com/in/sourabhpatyal](https://www.linkedin.com/in/sourabh-patiyal-0b956912b/)
 🌍 GitHub: [github.com/sourabhpatyal](https://github.com/sourabhpatyal)
 📍 Location: India 🇮🇳
+
+
 
 🎯 **Mission & Vision**
 ✅ Teach complex topics in simplified ways
