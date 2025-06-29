@@ -1,5 +1,5 @@
 # <h1 align="center">🔌 Sourabh Patiyal</h1>
-<h3 align="center">Engineer • Mentor • Microcontroller Whisperer</h3>
+<h3 align="center"> Embedded Engineer • Mentor • Microcontroller Whisperer</h3>
 
 
 -------------
